@@ -1,0 +1,13 @@
+
+
+@include media-breakpoint-up(sm) {
+    .body {
+      display: block;
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    .body {
+      display: block;
+    }
+  }
